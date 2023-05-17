@@ -220,7 +220,7 @@ body {
     border: solid 6px #A88557;
 }
 
-.content > p {
+.content>p {
     font-family: 'Dancing Script', cursive;
     font-size: 24px;
 }
@@ -343,7 +343,7 @@ body {
     .recieve>i {
         font-size: 24px;
     }
-  
+
     .bannerParty {
         position: absolute;
         top: 100px;

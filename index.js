@@ -1,4 +1,4 @@
-const contentLetterSrart_actived = "Chúc mừng sinh nhật em nhé. Em ấn vào icon dưới nha." //Lời mở đầu cho bức thư
+const contentLetterSrart_actived = "Chúc mừng sinh nhật thứ 18 của em." //Lời mở đầu cho bức thư
 const mainContentLetter = "Chúc mừng sinh nhật em, chúc cho em- cô gái xinh đẹp nhất Trái Đất luôn mạnh khỏe, luôn hạnh phúc. Anh xin gửi ngàn lời chúc tốt đẹp nhất đến em. Mong rằng, em sẽ luôn tươi trẻ, đầy sức sống như bông hồng kia. Dù rằng không biết còn cơ hội hay không nhưng anh vẫn sẽ mãi chờ em..."
 
 // Gắn 1 đường link ảnh bất kì
@@ -7,7 +7,7 @@ imgStart.src = "./img/flower.png";
 
 // Gắn 1 link ảnh bất kì
 let imgLetter = document.querySelector(".img");
-imgLetter.src = "./img/ed14817c130fcd51941e.png"; //Hình ảnh xuất hiện trong nội dung của bức thư sau khi bức thư được viết ra hết
+imgLetter.src = "./img/ed14817c130fcd51941e.jpg"; //Hình ảnh xuất hiện trong nội dung của bức thư sau khi bức thư được viết ra hết
 
 const splitContentLetterSrart_actived = contentLetterSrart_actived.split("");
 
